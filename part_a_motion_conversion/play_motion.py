@@ -1,4 +1,3 @@
-
 import cv2
 import mujoco
 import numpy as np

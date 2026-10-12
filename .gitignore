@@ -160,3 +160,15 @@ cython_debug/
 
 # logs
 logs
+
+
+# Local environment variables
+.env.*
+
+# Temporary files
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
